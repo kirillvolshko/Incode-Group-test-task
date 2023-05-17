@@ -1,0 +1,1 @@
+document.bidy.innerHTML = '<h1>HI</h1>'
